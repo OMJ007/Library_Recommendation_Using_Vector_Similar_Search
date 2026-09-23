@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables & secrets
+.env
+
+# IDE / Editor configuration
+.vscode/
+.idea/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Presentation slides
+*.pptx
+*.ppt
+
+# Large raw datasets (GitHub warns at 50MB and blocks at 100MB)
+# Uncomment the line below if you prefer to host datasets externally (e.g. Kaggle, Drive)
+# books_1.Best_Books_Ever.csv
